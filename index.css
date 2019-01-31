@@ -1,0 +1,40 @@
+body{
+	background-color: CA81EF;
+	font-family: sans-serif;
+	padding-top: 20px;
+	color:682D5B;
+}
+#sub{
+	height: 20px;
+	width:35px;
+}
+li{
+	display: inline;
+	padding-right: 20px;
+	font-size: 20px;
+}
+h1{
+	padding-left: 35px;
+}
+a{
+	text-decoration: none;
+	color:612F7B;
+}
+ul a:hover{
+	color:white;
+	text-decoration: none;
+}
+.slideshow img{
+	height:70%;
+	width:60%;
+	padding-left: 250px;
+}
+h6{
+	font-weight: normal;
+	font-size: 3px;
+	padding-top: 5px;
+}
+.copy{
+	padding-left: 40px;
+	font-size: 13px;
+}
